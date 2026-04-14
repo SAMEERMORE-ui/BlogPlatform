@@ -31,3 +31,4 @@ app.listen(PORT, () => {
 app.get("/", (req, res) => {
   res.send("Blog API is running 🚀");
 });
+console.log("CHANGED 🔥🔥🔥");
